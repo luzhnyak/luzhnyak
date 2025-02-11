@@ -85,5 +85,7 @@
 
  <a href="https://www.codewars.com/users/luzhnyak" target="_blank"><img src="https://www.codewars.com/users/luzhnyak/badges/large"></a>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzhnyak&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzhnyak&layout=compact&theme=tokyonight)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=luzhnyak&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
