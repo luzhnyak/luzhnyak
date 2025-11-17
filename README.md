@@ -80,6 +80,16 @@
       <br>Figma
     </td>
   </tr>
+  <tr>
+    <td align="center" width="88">
+      <img src="./images/19-fastapi.svg" alt="FastAPI" width="44" height="44"/>
+      <br>FastAPI
+    </td>
+    <td align="center" width="88">
+      <img src="./images/06-react.svg" alt="React Native" width="44" height="44"/>
+      <br>React Native
+    </td>    
+  </tr>
 </table>
 </div>
 
