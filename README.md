@@ -88,7 +88,11 @@
     <td align="center" width="88">
       <img src="./images/06-react.svg" alt="React Native" width="44" height="44"/>
       <br>React Native
-    </td>    
+    </td>   
+    <td align="center" width="88">
+      <img src="./images/20-flask.svg" alt="Flask" width="44" height="44"/>
+      <br>Flask
+    </td>   
   </tr>
 </table>
 </div>
@@ -98,4 +102,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzhnyak&layout=compact&theme=tokyonight)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=luzhnyak&show_icons=true&include_all_commits=true&theme=tokyonight)
+
 
