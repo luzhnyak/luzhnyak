@@ -96,7 +96,11 @@
     <td align="center" width="88">
       <img src="./images/21-material-ui.svg" alt="Material UI" width="44" height="44"/>
       <br>Material UI
-    </td>   
+    </td> 
+    <td align="center" width="88">
+      <img src="./images/22-sqlite.svg" alt="SQLite" width="44" height="44"/>
+      <br>SQLite
+    </td>     
   </tr>
 </table>
 </div>
