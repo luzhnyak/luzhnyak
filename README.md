@@ -100,6 +100,10 @@
     <td align="center" width="88">
       <img src="./images/22-sqlite.svg" alt="SQLite" width="44" height="44"/>
       <br>SQLite
+    </td> 
+    <td align="center" width="88">
+      <img src="./images/23-mysql.svg" alt="MySQL" width="44" height="44"/>
+      <br>MySQL
     </td>     
   </tr>
 </table>
