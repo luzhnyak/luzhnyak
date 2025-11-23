@@ -54,17 +54,17 @@
       <br>Material UI
     </td>
     <td align="center" width="88">
+      <img src="./images/24-bootstrap.svg" alt="Bootstrap" width="44" height="44"/>
+      <br>Bootstrap
+    </td>    
+    <td align="center" width="88">
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
     <td align="center" width="88">
         <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
-    </td>    
-    <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-    </td>
+    </td>        
     <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
@@ -102,7 +102,11 @@
     <td align="center" width="88">
       <img src="./images/23-mysql.svg" alt="MySQL" width="44" height="44"/>
       <br>MySQL
-    </td>     
+    </td>    
+    <td align="center" width="88">
+      <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+    </td> 
   </tr>
 </table>
 </div>
