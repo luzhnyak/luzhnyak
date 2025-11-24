@@ -90,6 +90,10 @@
     <td align="center" width="88">
       <img src="./images/20-flask.svg" alt="Flask" width="44" height="44"/>
       <br>Flask
+    </td>
+    <td align="center" width="88">
+      <img src="./images/25-django.svg" alt="Django" width="44" height="44"/>
+      <br>Django
     </td>       
     <td align="center" width="88">
       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
