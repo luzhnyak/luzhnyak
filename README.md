@@ -1,3 +1,5 @@
+Happy New Year!
+
 ### 👋 Hi all. I am Oleh Luzhniak.
 
 - ✨ I'm a **Full Stack developer.**
@@ -120,6 +122,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzhnyak&layout=compact&theme=tokyonight)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=luzhnyak&show_icons=true&include_all_commits=true&theme=tokyonight)
+
 
 
 
