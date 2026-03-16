@@ -1,7 +1,7 @@
 ### 👋 Hi all. I am Oleh Luzhniak.
 
 - ✨ I'm a **Full Stack developer.**
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, Node.js, Python, Flask, FastAPI, SQL, MongoDB, PostgreSQL, MySQL, Git, and more.**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, Node.js, Python, Flask, FastAPI, SQL, MongoDB, Djsngo, PostgreSQL, MySQL, Git, and more.**
 - 📫 How to reach me: [Telegram](https://t.me/oleghaker).
 - ⚡ I’m interested in: **computer programming & development.**  
 
