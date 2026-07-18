@@ -1,4 +1,4 @@
-о### 👋 Hi all. I am Oleh Luzhniak.
+👋 Hi all. I am Oleh Luzhniak.
 
 - ✨ I'm a **Full Stack developer.**
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, Node.js, Python, Flask, FastAPI, SQL, MongoDB, PostgreSQL, MySQL, Git and more.**
